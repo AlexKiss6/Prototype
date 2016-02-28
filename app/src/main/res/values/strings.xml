@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Prototype</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_groups">Groups</string>
+    <string name="title_activity_events">Events</string>
+
+    <string name="title_activity_event_details">Event Details</string>
+    <string name="rsvp_button">RSVP</string>
+    <string name="event_details_content">EVENT\nDETAILS</string>
+    <string name="event_text">This is the Events Activity!\nPress the button to view the event details!</string>
+    <string name="groups_button">Event Details</string>
+    <string name="groups_text">This is the Groups Activity!\nPress the button to view Events!</string>
+    <string name="events_button">Events</string>
+    <string name="main_text">This is the Main Activity!\nPress the button to view Groups!</string>
+    <string name="main_button">Groups</string>
+</resources>
