@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CorkBoard>
+  <Event Last_modified="1456108400948">
+    <Event_Name Event_ID="0">Food Truck Rally</Event_Name>
+    <Location>LakeLand Square</Location>
+	<Date>1456108400948</Date>
+    <Begin_Time>4:00 PM</Begin_Time>
+    <End_Time>5:00 PM</End_Time>
+    <Description>Food</Description>
+    <Tags>
+      <Tag>Food</Tag>
+      <Tag>Social</Tag>
+    </Tags>
+  </Event>
+  <Event Last_modified="1456108400966">
+    <Event_Name Event_ID="1">Community Service</Event_Name>
+    <Location>Lakeland Community Center</Location>
+	<Date>1456108400948</Date>
+    <Begin_Time>4:15 PM</Begin_Time>
+    <End_Time>5:15 PM</End_Time>
+    <Description>Fun</Description>
+    <Tags>
+      <Tag>Service</Tag>
+    </Tags>
+  </Event>
+  <Event Last_modified="1456108400966">
+    <Event_Name Event_ID="2">Earth Day</Event_Name>
+	<Date>1456108400966</Date>
+    <Location>TBD</Location>
+    <Begin_Time>4:30</Begin_Time>
+    <End_Time>5:30</End_Time>
+    <Description>Happiness</Description>
+    <Tags>
+      <!--<Tag>Plants</Tag>-->
+    </Tags>
+  </Event>
+  <Group>
+    <Group_Name>SGA</Group_Name>
+	<Event Last_Modified="1456420856559">
+		<Event Event_ID="3">Field Day</Event>
+		<Date>1456420856559</Date>
+		<Location>IST</Location>
+		<Begin_Time>3:00 P.M</Begin_Time>
+		<End_Time>4:00 P.M</End_Time>
+		<Description>Good times all day</Description>
+		<Tags>
+		  <Tag>Food</Tag>
+		  <Tag>Games</Tag>
+		</Tags>
+	</Event>
+  </Group>
+</CorkBoard>
